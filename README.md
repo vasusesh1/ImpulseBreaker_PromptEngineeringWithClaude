@@ -20,7 +20,6 @@ Built using Claude.ai, this project is part behavior design, part conversation U
 | File | Description |
 |------|-------------|
 | `Impulse_Breaker_Full_Prompt_Portfolio` | The full layered Claude prompt (copy-paste ready) |
-| `spending_coach_carousel.html` | Interactive carousel version of the chat (for LinkedIn or portfolio showcase) |
 | `SpendingCoachConversationCarousel.pdf` | Printable portfolio version with annotated chat and design notes |
 
 ---
